@@ -6,7 +6,7 @@ End-to-end pipeline for **diabetes prediction** using **Neural Networks** in bot
 - **Advanced Preprocessing**: SMOTE for class balance, PCA & LDA for dimensionality reduction, polynomial feature expansion  
 - **Model Definitions**: Separate implementations in Keras and PyTorch  
 - **Hyperparameter Tuning**: Automated search with Keras Tuner  
-- **Training & Evaluation**: Scripts to train, validate, and compare models across frameworks  
+- **Training & Evaluation**: Code to train, validate, and compare models across frameworks  
 
 ## Features
 
