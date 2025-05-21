@@ -33,3 +33,12 @@ pip install pandas numpy scipy matplotlib tensorflow keras_tuner pytorch sklearn
 3. Modify the Parameters cell to experiment with both your neural network architecture (e.g. number of layers, units per layer, activation functions, dropout rates) and your preprocessing pipeline (e.g. SMOTE ratio, number of PCA components, LDA dimensions, polynomial feature degree, etc.).  
 
 ---
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests at  
+https://github.com/pablo-reyes8
+
+## License
+
+This project is licensed under the Apache License 2.0.  
